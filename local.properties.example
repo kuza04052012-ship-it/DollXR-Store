@@ -1,0 +1,11 @@
+# Copy this file to local.properties and replace every placeholder.
+# Keep local.properties out of Git; .gitignore already excludes it.
+sdk.dir=PATH_TO_ANDROID_SDK
+
+# Google OAuth Web client ID from your own Firebase / Google Cloud project.
+dollxr.google.webClientId=YOUR_WEB_CLIENT_ID.apps.googleusercontent.com
+
+# Public GitHub App Client ID. Never put a client secret or private key here.
+dollxr.github.appClientId=YOUR_GITHUB_APP_CLIENT_ID
+dollxr.github.owner=YOUR_GITHUB_USERNAME_OR_ORG
+dollxr.github.repo=YOUR_GAMES_REPOSITORY

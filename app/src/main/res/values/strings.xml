@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DollXR Store</string>
+    <!-- Необязательно: package name VR-приложения, которое запускает кнопка на главной. -->
+    <string name="vr_target_package" translatable="false"></string>
+</resources>

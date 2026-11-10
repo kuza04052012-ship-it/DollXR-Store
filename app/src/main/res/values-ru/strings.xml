@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">DollXR Store</string>
+    <string name="welcome_title">Добро пожаловать в DollXR</string>
+    <string name="next_button">Далее</string>
+    <string name="select_language_title">Выберите язык</string>
+    <string name="select_language_subtitle">Выберите язык по умолчанию для DollXR Store</string>
+    <string name="google_signin_title">Вход в DollXR</string>
+    <string name="google_signin_subtitle">Подключите ваш аккаунт для доступа к DollXR</string>
+    <string name="google_signin_button">Войти через Google</string>
+    <string name="phone_signin_button">Вход по номеру телефона</string>
+    <string name="phone_unavailable">Временно недоступно</string>
+    <string name="google_signing_in">Выполняется вход…</string>
+    <string name="google_signed_in_as">Вы вошли как</string>
+    <string name="profile_setup_title">Создайте профиль</string>
+    <string name="profile_setup_subtitle">Настройте, как вас будут видеть в DollXR</string>
+    <string name="name_label">Имя пользователя</string>
+    <string name="username_label">Юзернейм</string>
+    <string name="username_hint">\@юзернейм</string>
+    <string name="protect_account_title">Защитите свой аккаунт dollxr</string>
+    <string name="password_subtitle">Задайте надежный пароль для вашей безопасности</string>
+    <string name="password_label">Пароль</string>
+    <string name="confirm_password_label">Повторите пароль</string>
+    <string name="rule_length">Минимум 8 символов</string>
+    <string name="rule_uppercase">Заглавная буква (A-Z или А-Я)</string>
+    <string name="rule_lowercase">Строчная буква (a-z или а-я)</string>
+    <string name="rule_number">Хотя бы одна цифра (0&#8211;9)</string>
+    <string name="rule_special">Специальный символ (!@#$%&#8230;)</string>
+    <string name="rule_match">Пароли совпадают</string>
+    <string name="finish_button">Завершить установку</string>
+    <string name="welcome_home">Добро пожаловать в DollXR Store</string>
+    <string name="sign_out">Выйти</string>
+    <string name="reset_onboarding">Сбросить настройку</string>
+</resources>
