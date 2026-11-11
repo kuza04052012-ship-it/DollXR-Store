@@ -1,4 +1,5 @@
-<img width="640" height="640" alt="photo_2026-10-17_19-50-32" src="https://github.com/user-attachments/assets/7140bd39-ce45-4b4f-afb4-93236b67ac36" />
+у<img width="1254" height="1254" alt="Неоновый геймер с корзиной игр" src="https://github.com/user-attachments/assets/b2b9d9ee-83c9-4390-b4c8-b42e23d26927" />
+
 
 # 🎮 DollXRStore
 
